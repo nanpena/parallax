@@ -2,4 +2,5 @@
 
 During Stackathon at Fullstack Academy, I wanted to study about code and motion graphic. In 4 days, I researched, studied and created this interactive illustration with 3D parallax effect allows user to responsively interact with the artwork. this project dveloped using HTML canvas, CSS,  Javascript, and Tween.js. 
 
-![Farmers Market Finder Demo](readme/screenshot.gif)
+![Farmers Market Finder Demo](reademe/screenshot.gif)
+                            
